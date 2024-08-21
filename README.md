@@ -5,7 +5,7 @@
 A curated list of (some) hardware wallets for cryptos sorted by brands
 
 - ColdCard https://coldcard.com/mk4
-  - Mk4 https://coldcard.com/mk4
+  - Mk4
 
 - Keepkey https://www.keepkey.com
 
