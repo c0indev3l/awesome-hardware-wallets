@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of (some) hardware wallets for cryptos sorted by brands
+A curated list of (some) hardware wallets for cryptos and [web3](https://github.com/ahmet/awesome-web3) sorted by brands
 
 - ColdCard https://coldcard.com
   - Mk4
